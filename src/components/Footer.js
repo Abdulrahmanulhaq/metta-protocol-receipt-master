@@ -36,7 +36,7 @@ const Footer = () => {
                         </a> */}
                     </span>
                     <p className=" text-xs poweredby">Powered by:&nbsp;
-                        <a href="#" target="blank" className="poweredby-link"><i>Voodoo Warriors</i></a>
+                        <a href="#" target="blank" className="poweredby-link"><i>bRd Digitech</i></a>
                     </p>
                 </div>
             </div>
