@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf5135EA29aD9705E9FFFECdBe27BFBd30a60C323",
+  "SCAN_LINK": "https://etherscan.io/address/0xf5135ea29ad9705e9fffecdbe27bfbd30a60c323",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Metta Protocol Receipts",
+  "SYMBOL": "MEPR",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
